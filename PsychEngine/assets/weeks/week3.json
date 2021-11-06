@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Pico", "pico", [148, 22, 83]],
+		["bopeebo", "dad", [148, 22, 83]],
+		["Blammed", "pico", [148, 22, 83]],
+	  ["fresh", "dad", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf",
+    "dad"
+	],
+	"weekBackground": "philly",
+
+	"storyName": "dying-hope",
+	"weekBefore": "tutorial",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
